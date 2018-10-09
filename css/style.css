@@ -1,0 +1,455 @@
+body
+{
+	font-family: 'Al bayan', sans-serif;
+	margin: 0;
+}
+
+.trhcolumns
+{
+	overflow: hidden;
+}
+
+.main-header
+{
+	background-color: #00B5C9;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	font-size: 45px;
+	color: white;
+
+}
+
+.text-header
+{
+	margin-left: 10px;
+	font-weight: bold;
+}
+
+.titles-font
+{
+	font-size: 20px;
+	font-weight: bold;
+	color: #00B5C9;
+}
+
+.box1
+{
+	float: left;
+	/*background-color: blue;*/
+	height: 700px;
+	width: 33.33%;
+}
+
+.status
+{
+	/*background-color: cyan;*/
+	margin-top: 50px;
+	overflow: hidden;
+
+}
+
+.status-1
+{
+	float: left;
+	/*background-color: yellow;*/
+	text-align: right;
+	padding-left: 20%;
+}
+
+.status-2
+{
+	float: right;
+	/*background-color: green;*/
+	text-align: left;
+	padding-right: 30%;
+}
+
+.reponse-font
+{
+	font-size: 20px;
+}
+
+.tags
+{
+	margin-top: 50px;
+	text-align: center;
+	font-size: 14px;
+	
+}
+
+.tags-space
+{
+	margin-left: 10px;
+	margin-right: 10px;
+	background-color: #00B5C9;
+	border: none;
+	border-radius: 10px;
+	color: white;
+	width: 100px;
+	height: 22px;
+}
+
+.image-container
+{
+	padding-top: 50px;
+	text-align: center;
+	
+}
+
+.image
+{
+	height: 350px;
+	width: 350px;
+
+}
+
+.box2
+{
+	float: left;
+	/*background-color: red;*/
+	height: 700px;
+	width: 33.33%;
+}
+
+.motivation
+{
+	margin-top: 50px;
+}
+
+.motivation-title
+{
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+.gray-box1
+{
+	background-color: #CCCCCC;
+	margin-left: 10px;
+	height: 20px;
+	margin-top: 5px;
+	width: 350px;
+}
+
+.gray-box2
+{
+	background-color: #F2F2F2;
+	margin-left: 10px;
+	height: 20px;
+	margin-top: 5px;
+	width: 350px;
+}
+
+.goals
+{
+	margin-top: 20px;
+}
+
+.goals-title
+{
+	margin-left: 10px;
+}
+
+.goals-font
+{
+	margin-top: 1px;
+	margin-left: -10px;
+	font-size: 18px;
+}
+
+.biography
+{
+	margin-top: 40px;
+	background-color: #F2F2F2;
+	
+	height: 295px;
+	width: 515px;
+}
+
+.biography-title
+{
+	padding-top: 20px;
+	margin-left: 10px;
+}
+
+.text
+{
+	margin-left: 10px;
+}
+
+.box3
+{
+	float: left;
+	/*background-color: yellow;*/
+	height: 700px;
+	width: 33.33%;
+
+}
+
+.history
+{
+	margin-top: 50px;
+}
+
+.history-title
+{
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+.technologies
+{
+
+}
+
+.technologies-title
+{
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+.sub-tech
+{
+	margin-left: 10px;
+}
+
+.horizontal
+{
+	overflow: hidden;
+}
+
+.barb1
+{
+	background-color: #00B5C9;
+	width: 450px;
+	height: 25px;
+	float: left;
+	margin-bottom: 15px;
+}
+
+.barg1
+{
+	float: left;
+	background-color: #F2F2F2;
+	width: 5px;
+	height: 25px;
+}
+
+.barb2
+{
+	background-color: #00B5C9;
+	width: 440px;
+	height: 25px;
+	float: left;
+	margin-bottom: 15px;
+}
+
+.barg2
+{
+	float: left;
+	background-color: #F2F2F2;
+	width: 15px;
+	height: 25px;
+}
+
+.barb3
+{
+	background-color: #00B5C9;
+	width: 290px;
+	height: 25px;
+	float: left;
+	margin-bottom: 15px;
+}
+
+.barg3
+{
+	float: left;
+	background-color: #F2F2F2;
+	width: 165px;
+	height: 25px;
+}
+
+.barb4
+{
+	background-color: #00B5C9;
+	width: 260px;
+	height: 25px;
+	float: left;
+	margin-bottom: 15px;
+}
+
+.barg4
+{
+	float: left;
+	background-color: #F2F2F2;
+	width: 195px;
+	height: 25px;
+}
+
+.social
+{
+	overflow: hidden;
+	color: #00B5C9;
+	font-size: 60px;
+	margin-top: 90px;
+}
+
+.social a
+{
+	color: #00B5C9;
+	text-decoration: none;
+}
+
+.margin
+{
+	float: left;
+	margin-left: 90px;
+}
+
+.font
+{
+	font-size: 18px;
+}
+
+.footer
+{
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: #00B5C9;
+	color: white;
+}
+
+/*Responsive time*/
+
+@media screen and (max-width: 1199px)
+{
+	body
+	{
+		
+	}
+
+	.box1
+	{
+	float: left;
+	/*background-color: blue;*/
+	height: 800px;
+	width: 100%;
+	}
+
+	.status
+	{
+	/*background-color: cyan;*/
+	margin-top: 50px;
+	overflow: hidden;
+	}
+
+	.status-1
+	{
+	float: left;
+	/*background-color: yellow;*/
+	text-align: right;
+	padding-left: 15%;
+	}
+
+	.status-2
+	{
+	float: right;
+	/*background-color: green;*/
+	text-align: left;
+	padding-right: 27%;
+	}
+
+	.box2
+	{
+	float: left;
+	/*background-color: red;*/
+	height: 800px;
+	width: 100%;
+	}
+
+	.biography
+	{
+	margin-top: 40px;
+	background-color: #F2F2F2;
+	
+	height: 375px;
+	width: 445px;
+	}
+
+	.box3
+	{
+	float: left;
+	/*background-color: yellow;*/
+	height: 800px;
+	width: 100%;
+	}
+
+	.barb1
+	{
+	background-color: #00B5C9;
+	width: 350px;
+	height: 25px;
+	float: left;
+	margin-bottom: 15px;
+	}
+
+	.barg1
+	{
+	float: left;
+	background-color: #F2F2F2;
+	width: 5px;
+	height: 25px;
+	}
+
+	.barb2
+	{
+	background-color: #00B5C9;
+	width: 340px;
+	height: 25px;
+	float: left;
+	margin-bottom: 15px;
+	}
+
+	.barg2
+	{
+	float: left;
+	background-color: #F2F2F2;
+	width: 15px;
+	height: 25px;
+	}
+
+	.barb3
+	{
+	background-color: #00B5C9;
+	width: 190px;
+	height: 25px;
+	float: left;
+	margin-bottom: 15px;
+	}
+
+	.barg3
+	{
+	float: left;
+	background-color: #F2F2F2;
+	width: 165px;
+	height: 25px;
+	}
+
+	.barb4
+	{
+	background-color: #00B5C9;
+	width: 160px;
+	height: 25px;
+	float: left;
+	margin-bottom: 15px;
+	}
+
+	.barg4
+	{
+	float: left;
+	background-color: #F2F2F2;
+	width: 195px;
+	height: 25px;
+	}
+}
